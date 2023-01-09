@@ -2,3 +2,6 @@
 
 ## Summary
 ### This repository contains all of the notes taken by [Andrii](https://github.com/andrii-grynik) for the Lighthouse Labs Web Development Bootcamp.
+
+# Table of Contents
+### 
