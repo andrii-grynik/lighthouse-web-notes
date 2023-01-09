@@ -1,3 +1,4 @@
+```
 const whatToDoForLunch = function(hungry, availableTime) {
   if(hungry === false) {
     console.log("Go back to work");
@@ -27,3 +28,4 @@ console.log("---");
 
 console.log("I'm hungry and I have 15 minutes for lunch.");
 whatToDoForLunch(true, 15);
+```
